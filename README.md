@@ -28,5 +28,5 @@ pipenv run jupyter notebook
 ```
 
 Vista previa de los cuadernos:
-  * [Apuntes de Python](https://nbviewer.jupyter.org/github/StefanoSosac/sobre-python/blob/main/python-general.ipynb)
-  * [Apuntes de Numpy](https://nbviewer.jupyter.org/github/StefanoSosac/sobre-python/blob/main/numpy-general.ipynb)
+  * [Apuntes de Python](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/python-general.ipynb)
+  * [Apuntes de Numpy](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/numpy-general.ipynb)
