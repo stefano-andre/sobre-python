@@ -1,7 +1,7 @@
 # Sobre Python
 Apuntes de Python
 
-## Luego de clonar
+## Antes de clonar
 
 En caso no tenga instalado pipenv, lo puede instalar con el siguiente comando:
 
@@ -9,7 +9,9 @@ En caso no tenga instalado pipenv, lo puede instalar con el siguiente comando:
 sudo apt install pipenv
 ```
 
-Luego, dentro del directorio clonado, ejecute el siguiente comando para sincronizar las dependencias:
+## Luego de clonar
+
+Dentro del directorio clonado, ejecute el siguiente comando para sincronizar las dependencias:
 
 ```
 pipenv sync
@@ -21,10 +23,16 @@ Para activar el entorno:
 pipenv shell
 ```
 
-Por último:
+Por ejecutar el cuaderno de `jupyter`:
 
 ```
 pipenv run jupyter notebook
+```
+
+Por salir el cuaderno de `jupyter`:
+
+```
+exit
 ```
 
 Vista previa de los cuadernos:
