@@ -1,5 +1,5 @@
 # Sobre Python
-Apuntes de Python
+Estos apuntes de Python fueron probados sobre Ubuntu 20.04 en una máquina virtual con 4 cores y 4 GB de RAM
 
 ## Antes de clonar
 
