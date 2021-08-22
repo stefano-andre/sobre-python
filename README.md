@@ -29,7 +29,7 @@ Por ejecutar el cuaderno de `jupyter`:
 pipenv run jupyter notebook
 ```
 
-Por salir el cuaderno de `jupyter`:
+Por salir del entorno de `pipenv`:
 
 ```
 exit
