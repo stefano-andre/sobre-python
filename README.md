@@ -3,6 +3,12 @@ Estos apuntes de Python fueron probados sobre Ubuntu 20.04 en una máquina virtu
 
 ## Antes de clonar
 
+Actualizar:
+
+```
+sudo apt update
+```
+
 En caso no tenga instalado pipenv, lo puede instalar con el siguiente comando:
 
 ```
