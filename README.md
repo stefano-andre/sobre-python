@@ -15,6 +15,13 @@ En caso no tenga instalado pipenv, lo puede instalar con el siguiente comando:
 sudo apt install pipenv
 ```
 
+Par probar el cuaderno de ctypes, requiere nasm y gcc:
+
+```
+sudo apt install gcc
+sudo apt install nasm
+```
+
 ## Luego de clonar
 
 Dentro del directorio clonado, ejecute el siguiente comando para sincronizar las dependencias:
