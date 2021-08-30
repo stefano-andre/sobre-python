@@ -15,7 +15,7 @@ En caso no tenga instalado pipenv, lo puede instalar con el siguiente comando:
 sudo apt install pipenv
 ```
 
-Par probar el cuaderno de ctypes, requiere nasm y gcc:
+Para probar el cuaderno de ctypes, requiere nasm y gcc:
 
 ```
 sudo apt install gcc
