@@ -48,7 +48,7 @@ Por salir del entorno de `pipenv`:
 exit
 ```
 
-Vista previa de los cuadernos:
+En caso tenga dificultad para ver los cuadernos en el repositorio, puede usar los siguientes enlaces:
   * [Apuntes de Python](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/python-general.ipynb)
   * [Apuntes de Numpy](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/numpy-general.ipynb)
   * [Apuntes de Pandas](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/pandas-general.ipynb)
