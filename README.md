@@ -36,13 +36,13 @@ Para activar el entorno:
 pipenv shell
 ```
 
-Por ejecutar el cuaderno de `jupyter`:
+Para ejecutar el cuaderno de `jupyter`:
 
 ```
 pipenv run jupyter notebook
 ```
 
-Por salir del entorno de `pipenv`:
+Para salir del entorno de `pipenv`:
 
 ```
 exit
