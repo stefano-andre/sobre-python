@@ -1,5 +1,5 @@
 # Sobre Python
-El propósito de estos apuntes es servir de ayuda memoria a los que aún no somos nativos de Python y estamos en proceso de aprendizaje. Estos apuntes fueron probados sobre Ubuntu 20.04 en una máquina virtual con 4 cores y 4 GB de RAM
+El propósito de estos apuntes es servir de ayuda memoria a los que aún no somos nativos de Python. Estos apuntes fueron probados sobre Ubuntu 20.04 en una máquina virtual con 4 cores y 4 GB de RAM
 
 ## Antes de clonar
 
