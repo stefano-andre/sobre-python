@@ -56,4 +56,5 @@ En caso tenga dificultad para ver los cuadernos en el repositorio, puede usar lo
   * [Apuntes de Time y Timeit](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/python-timing.ipynb)
   * [Apuntes de Ctypes](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/python-ctypes.ipynb)
       * [Apuntes sobe las optimizaciones de GCC](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/gcc-optis.ipynb)
+      * [Apuntes sobre el factorial](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/factorial.ipynb)
   * [Problema de los N-cuerpos](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/euler-nbprob.ipynb)
