@@ -1,11 +1,11 @@
 import statistics
 
-def filtro_mediana(sign, ventana):
+def filtro_mediana(sign, w):
     signc = []
-    tam = len(sign)
-    offs = int((ventana-1)/2)
-    for i in range(tam):
-        inicio = i - offs if (i - offs > 0) else i
-        fin = i + offs if (i + offs < tam) else tam
-        signc.append(statistics.median(sign[inicio:fin]))
+    lc = sign+sign+sign
+    ii = len(sign)
+    for i in range(len(sign)):
+        izq = i + ii - w//2
+        der = i + ii + w//2
+        signc.append(statistics.median(lc[izq:der+1]))
     return signc
