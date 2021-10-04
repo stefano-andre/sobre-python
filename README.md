@@ -52,6 +52,7 @@ En caso tenga dificultad para ver los cuadernos en el repositorio, puede usar lo
   * [Apuntes de Python](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/python-general.ipynb)
   * [Apuntes de Numpy](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/numpy-general.ipynb)
   * [Apuntes de Pandas](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/pandas-general.ipynb)
+      * [Perfil de una función](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/perfil-pthreads.ipynb)
   * [Apuntes de Matplotlib](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/matplotlib-general.ipynb)
   * [Apuntes de Time y Timeit](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/python-timing.ipynb)
       * [Apuntes sobre el factorial](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/factorial.ipynb)
