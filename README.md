@@ -61,4 +61,5 @@ En caso tenga dificultad para ver los cuadernos en el repositorio, puede usar lo
   * [Apuntes de Ctypes](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/python-ctypes.ipynb)
       * [Apuntes sobre las optimizaciones de GCC](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/gcc-optis.ipynb)
       * [Apuntes sobre estructuras](https://nbviewer.org/github/stefano-andre/sobre-python/blob/main/ctypes-structure.ipynb)
+  * [Apuntes de Multiprocessing](https://nbviewer.org/github/stefano-andre/sobre-python/blob/main/python-multiprocessing.ipynb)
   * [Problema de los N-cuerpos](https://nbviewer.jupyter.org/github/stefano-andre/sobre-python/blob/main/euler-nbprob.ipynb)
